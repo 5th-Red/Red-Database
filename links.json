@@ -1,0 +1,76 @@
+{
+  "5th Red":{
+    "Sites":{
+      "Main":"https://5thred.netlify.app",
+    },
+    "Socials":{
+      "Instagram":"https://instagram.com/5thRedOfficial",
+      "Twitter":"https://twitter.com/5thRedOfficial",
+      "GitHub":"https://github.com/5th-Red",
+      "Subreddit":"https://reddit.com/r/5thRed",
+      "Discord":"https://discord.gg/49ywmhS5CG",
+      "Twitch":"https://twitch.tv/5thRed"
+    }
+  },
+  "Red Code":{
+    "Sites":{
+      "Red Code":"https://redcodeinc.netlify.app",
+      "Red Script":"https://redscript.netlify.app",
+      "Red CSS":"https://redcss.netlify.app",
+      "Red HTML":"https://redhtml.netlify.app",
+      "Red Icons":"https://redicons.netlify.app",
+      "Red Python":"https://rython.netlify.app",
+      "Red Java":"https://redjava.netlify.app",
+      "Red C":"https://redc.netlify.app/c",
+      "Red Plus":"https://redc.netlify.app/plus",
+      "Red Sharp":"https://redc.netlify.app/sharp",
+      "Red X":"https://redx.netlify.app",
+      "Red Y":"https://redy.netlify.app",
+      "Red Z":"https://redz.netlify.app",
+      "Red Vault":"https://redvault.netlify.app",
+      "Red Jarvis":"https://redjarvis.netlify.app",
+    },
+    "Socials":{
+      "Instagram":"https://instagram.com/redcodeinc",
+      "Twitter":"https://twitter.com/redcodeinc",
+      "GitHub":"https://github.com/Red-Code-INC",
+      "Subreddit":"https://reddit.com/r/redcodeinc",
+      "Discord":"https://discord.gg/d66PTZWWNx",
+      "Twitch":"https://twitch.tv/RedCode",
+    },
+  },
+  "Schoolsistance":{
+    "Sites":{
+      "Schoolsistance":"https://schoolsistance.netlify.app",
+      "Schoolsistance INC":"https://schoolsistanceinc.netlify.app",
+      "Math":"https://schoolsistance.netlify.app/math",
+      "Science":"https://schoolsistance.netlify.app/science",
+      "Social_Studies":"https://schoolsistance.netlify.app/socialstudies",
+      "Language_Arts":"https://schoolsistance.netlify.app/languagearts"
+      "Codesistance":"https://codesistance.netlify.app",
+      "Edusistance":"https://edusistance.netlify.app",
+      "Schelp":"https://schelp.netlify.app"
+    },
+    "Socials":{
+      "Instagram":"https://instagram.com/schoolsistance",
+      "Twitter":"https://twitter.com/schoolsistance",
+      "GitHub":"https://github.com/Schoolsistance-INC",
+      "Subreddit":"http://reddit.com/r/Schoolsistance",
+      "Discord":"https://discord.gg/d66PTZWWNx",
+      "Twitch":"https://twitch.tv/Schoolsistance",
+    },
+  },
+  "Schelp":{
+    "Sites":{
+      "Main":"https://schelp.netlify.app",
+    },
+    "Socials":{
+      "Instagram":"https://instagram.com/schelp",
+      "Twitter":"https://twitter.com/schelp",
+      "GitHub":"https://github.com/SchelpOfficial",
+      "Subreddit":"https://reddit.com/r/Schelp",
+      "Discord":"https://discord.gg/akJAzfGKeU",
+      "Twitch":"https://twitch.tv/Schelp"
+    }
+  }
+}
