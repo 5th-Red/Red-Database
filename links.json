@@ -1,7 +1,7 @@
 {
   "5th Red":{
     "Sites":{
-      "Main":"https://5thred.netlify.app",
+      "Main":"https://5thred.netlify.app"
     },
     "Socials":{
       "Instagram":"https://instagram.com/5thRedOfficial",
@@ -28,7 +28,7 @@
       "Y":"https://redy.netlify.app",
       "Z":"https://redz.netlify.app",
       "Vault":"https://redvault.netlify.app",
-      "Jarvis":"https://redjarvis.netlify.app",
+      "Jarvis":"https://redjarvis.netlify.app"
     },
     "Socials":{
       "Instagram":"https://instagram.com/redcodeinc",
@@ -36,7 +36,7 @@
       "GitHub":"https://github.com/Red-Code-INC",
       "Subreddit":"https://reddit.com/r/redcodeinc",
       "Discord":"https://discord.gg/d66PTZWWNx",
-      "Twitch":"https://twitch.tv/RedCode",
+      "Twitch":"https://twitch.tv/RedCode"
     },
   },
   "Schoolsistance":{
@@ -57,12 +57,12 @@
       "GitHub":"https://github.com/Schoolsistance-INC",
       "Subreddit":"http://reddit.com/r/Schoolsistance",
       "Discord":"https://discord.gg/d66PTZWWNx",
-      "Twitch":"https://twitch.tv/Schoolsistance",
+      "Twitch":"https://twitch.tv/Schoolsistance"
     },
   },
   "Schelp":{
     "Sites":{
-      "Main":"https://schelp.netlify.app",
+      "Main":"https://schelp.netlify.app"
     },
     "Socials":{
       "Instagram":"https://instagram.com/schelp",
